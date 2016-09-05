@@ -20,10 +20,6 @@
     id="net.yoik.cordova.plugins.screenorientation"
     version="1.4.2">
 
-<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-    id="cordova-plugin-screen-orientation"
-    version="1.4.2">
-
     <name>Screen Orientation</name>
     <description>Adds Screen Orientation API lock and unlock functions to the global screen object in android, iOS, WP8, W8.1, and BB10.</description>
     <license>MIT</license>
